@@ -1,4 +1,4 @@
-package factory;
+package simplefactory;
 
 public abstract class PizzaStore {
 	Pizza pizza;

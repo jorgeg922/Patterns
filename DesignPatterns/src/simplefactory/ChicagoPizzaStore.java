@@ -1,4 +1,4 @@
-package factory;
+package simplefactory;
 
 public class ChicagoPizzaStore extends PizzaStore{
 

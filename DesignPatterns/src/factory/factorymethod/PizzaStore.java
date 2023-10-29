@@ -1,4 +1,4 @@
-package simplefactory;
+package factory.factorymethod;
 
 public abstract class PizzaStore {
 	Pizza pizza;

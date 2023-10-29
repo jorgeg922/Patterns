@@ -1,4 +1,4 @@
-package simplefactory;
+package factory.factorymethod;
 
 import java.util.ArrayList;
 import java.util.List;

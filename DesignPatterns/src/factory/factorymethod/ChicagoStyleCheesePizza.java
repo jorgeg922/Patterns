@@ -1,4 +1,4 @@
-package simplefactory;
+package factory.factorymethod;
 
 public class ChicagoStyleCheesePizza extends Pizza{
 	public ChicagoStyleCheesePizza() {

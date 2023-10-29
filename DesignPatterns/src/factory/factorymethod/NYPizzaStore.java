@@ -1,4 +1,4 @@
-package simplefactory;
+package factory.factorymethod;
 
 public class NYPizzaStore extends PizzaStore{
 

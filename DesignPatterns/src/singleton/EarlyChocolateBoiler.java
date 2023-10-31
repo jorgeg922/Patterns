@@ -1,4 +1,5 @@
 package singleton;
+//Eager implementation
 //if applications always creates an instance of the singleton, or the overhead isnt significant
 //create singleton early
 public class EarlyChocolateBoiler {

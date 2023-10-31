@@ -1,4 +1,5 @@
 package singleton;
+//classic
 //singleton, but not thread safe. Look other implementation in this package for thread safe impl
 public class ChocolateBoiler {
 	private boolean empty;
